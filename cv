@@ -1,0 +1,101 @@
+<html>
+ <head>
+<style>
+body {background-color: WhiteSmoke;
+      width:500px;margin:0 auto;}
+     
+
+p2   {color: SteelBlue;}
+
+</style>
+</head>
+
+<body>
+
+         <p1 style="font-size:300%;font-family:verdana;">Huan Rong</p1><br>
+         <p1>0735142849</p1><br>
+         <a href="mailto:timy0930@gmail.com" target="_blank">
+         <p1>timy0930@gmail.com</p1></a>
+
+
+     
+            <h3>Education</h3>
+            <p>
+            <ul>
+            <p1><strong>Uppsala University</strong></p1>
+                <li>Master Programme in Human-Computer Interaction</li><br>
+            <p1><strong>Linnaeus University</strong></p1>
+                <li>Bachelor of Science</li><br>
+            <p1><strong>University of Hertforshire</strong></p1>
+                <li>Erasmus Exchanging Program</li><br>           
+            </ul>
+            
+            
+            <h3>Working Experience</h3>           
+            <ul>
+            <p1><strong>Product Design and Marketing</strong></p1><br>
+            <p2>DataNEdu</p2><br>
+            <li>User Research
+            <li>User interface design
+            <li>Planning, proposal, promotion copywrting and implementation of the marketing 
+            media promotion plan and brand promotion plan<br><br>
+            <p1><strong>Interaction Design Project of VR Blockchain Trade</strong></p1><br>
+            <p2>Insomni0x</p2><br>
+            <li>VR interface design<br><br>
+            <p1><strong>Summer Intern-Product Manager Assistant</strong></p1><br>
+            <p2>Chengdu Guoguang Electronic Instrument Co.Ltd</p2>
+            <li>Costumers’feedback collection and analysis
+            <li>Investigation of market and users, Users’ behavior analysis
+            <li>Communication with other departments
+            </ul><br>
+            
+            <h3>Skills</h3>
+            <table>
+                <tr id="heading">
+                    <td>Competence</td>
+                    <td>Technology</td>
+                    <td>Language</td>
+                </tr>
+                
+                <tr>
+                    <td>User Research</td>
+                    <td>SQL</td>
+                    <td>English</td>
+                </tr>
+                
+                <tr>
+                    <td>Usability Testing</td>
+                    <td>UML</td>
+                    <td>Chinese</td>
+                </tr>
+                
+                <tr>
+                    <td>Prototyping</td>
+                    <td>Adobe Photoshop</td>
+                </tr>
+                <tr>
+                    <td>User-centred Design</td>
+                </tr>
+            </table>
+            
+            <h3>Activities</h3>
+            <ul>
+                <p1><strong>Manager of Uppsala Group</strong></p1><br>
+                <p2>Sweden-China Startup Forum</p2><br>
+                <p3>Orginizing the Meet-up, conferences, and gasque with team members in 
+                Uppsala which could create chances of communication between companies from China 
+                and Swedish innovating start-ups.</p3><br>
+                <p1><strong>President</strong></p1><br>   
+                <P2>Chinese Students and Scholars Association in Uppsala</p2><br>
+                <p3>Assistant companies to host job fairs at universities or other societies. 
+                Orgnizing different events to enrich students' life, such as Spring Festival Gala, 
+                Mid-Autumn Festival Fika with Uplands Nation<P3><br>
+                <p1><strong>Business to Business Relations</strong></p1><br>
+                <p2>AIESEC in Uppsala</p2><br>
+                <p3>Cooperating with local companies to help them find talent employee from overseas 
+                and arranging the overseas AIESEC members to integrate into local life</p3>
+            </ul>
+
+
+    </body>
+</html>
