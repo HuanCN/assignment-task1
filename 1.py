@@ -9,4 +9,4 @@ def sumOfList(someList):
     for index in someList:
         result = someList.index(index)+result
     return result
-assert sumOfList(numbers) === 11
+ sumOfList(numbers) == 11
